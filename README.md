@@ -20,3 +20,5 @@
 * id - единица данных
 * title - заголовок
 * text - содержание
+
+Ссылка на данные: https://drive.google.com/file/d/1j6PkcIogWVa0H338apB4BUNrobHqa3iU/view?usp=sharing
