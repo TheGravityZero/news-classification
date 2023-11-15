@@ -21,4 +21,4 @@
 * title - заголовок
 * text - содержание
 
-Ссылка на данные: https://drive.google.com/file/d/1j6PkcIogWVa0H338apB4BUNrobHqa3iU/view?usp=sharing
+Ссылка на данные: https://drive.google.com/drive/folders/1NbWpBs1c1Y_7FBSKJ2dGl29-xUr1dd7N?usp=sharing
